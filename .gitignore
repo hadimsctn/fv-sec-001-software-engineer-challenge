@@ -1,0 +1,19 @@
+# Build output (binary)
+*.exe
+
+# Data files (too large for git)
+ad_data.csv
+ad_data.csv.zip
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Generator (from original repo)
+/generator
